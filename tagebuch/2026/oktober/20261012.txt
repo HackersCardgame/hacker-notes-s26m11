@@ -1,0 +1,147 @@
+00:13:
+
+scans:
+(am Schriftbild erkennt man vermutlich, dass man bei mir grad wieder ziemlich schmerzen induziert)
+=> also technisch schmerzimplnatat ohr + induzierte Epilepsie, und das wieder vor dem Psychiatrie-Kontroll-Termin.
+
+
+~/hacker-notes-s26m06/scans/59/5900-5949.pdf
+~/hacker-notes-s26m06/scans/59/5943-5949.pdf
+~/hacker-notes-s26m06/scans/59/5950-5953.pdf
+
+
+
+
+voice:
+
+
+~/hacker-notes-s26m06/voice/202610/R20261011-170712.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-171036.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-171145.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-171259.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-171519.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-173740.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-174530.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-174609.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-175003.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-175515.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-175716.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-185814.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-191127.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-191157.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-191301.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-191331.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-195729.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-202918.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-203628.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261011-204525.WAV.mp3
+
+
+
+
+
+Frage an LLMs:
+
+
+Du sagst ja, dass Auftragsmorde ohne vorhandene bereits aufgebaute Strukturen wie zB bei der Mafia gar nicht funkionieren würde. [1] [2]
+
+Wurde irgendwo solche Strukturen dokumentiert neben der Mafia. Also zB wenn ein grosser Schweizer Versicherer international insgeheim tausende Auftragskiller aufgebaut und ausgebildet hat. Dann für einen Mord in Aarau immer einen Auftragskiller aus einem anderen Land einfliegt.
+
+Dass der Versicherer dann dem Auftragnehmer eine Wohung in der Nähe des Zeugen stellt welcher ermordet werden soll. Dass lokale Auftragskiller, allenfalls sogar mit Zugriff auf militärische oder zivile Überwachungs-Infrastruktur dem Auftragnehmer sogar noch Anweisungen geben.
+
+Gerne eine lange ausführliche Antwort
+
+DISCLAMER:
+ da geht es nicht darum einen Klienten vor legitimer Strafverfolgung in Sachen Wirtschaftskriminalität zu schützen, sondern darum wenn diese Strukturen auffliegen und es dann so viele Präzedenzfälle gegen den Versicherer gäbe dass dieser Bank-Rott wäre. Also Stichwort "Präzedenzfälle die es nie gab" [1]
+ 
+[1] das aber gerne NICHT mit dem "to big to fail" verwechseln, welches man nach den Bankenkriesen öfter hört.
+
+
+
+
+[1] nächgster trottel spielt seine nächste verrat-Poker-karte
+(Mindcontrol light: ähnlichkeit der übermittlung)
+In der Psychiatrie Königsfelden "würden patienten zu fremdenlegionären umfunktioniert", ABER das ist nur eine ablekung, dass die aarauer Menschen aus dem Umfeld der HTL grad neben der Psychiatrie jeweils für Auftragsmorde Ausländer importiert, diese anweist über militärische Überwachungstechnologie, aber dass die Offiziere selber nie zum Vorschein kommen wenn sie einen Zeugen ermorden lassen.
+
+[2] nächgster trottel spielt seine nächste verrat-Poker-karte
+eingespielte schlachthof-quartiere
+
+
+
+Zürich versicherung DELETED DELETED2 DELETED3 REBU:T wenn die zürich versicherung so korrupt ist wüsste das der Staat, bzw. er weisse es
+
+Schlachthof Quartier -> wachsend weil alle welche wissen es vertuschen
+
+connected 
+
+
+09:35:
+
+akute amoklaufgefahr bei jurg stalder weil jürg stalder seine joung boys (IB identitäre, und Fussballverein) verraten hat...
+
+rest ist auf den sprachnotizen:
+
+band of broters <-> ib = Band of brothers vo amoklauf brudis in Bern, wie in Aarau
+
+jürg stalder passt in das Profil von Menschen welche urs blum und die zürich Versicherung als Auftragskiller anheuern würde
+
+09:38:
+dem sein blackhat team hat scheinbar auf meinem computer ca 20 Sabotagen vorgelegt um zu verhindern dass icvh die sprachnotizen auf github backupe...
+
+
+das ist ein hardware backdoor, wird jurg stalder von sienen blackhats von usa zugehalten, schaltet als "plausible deniable" bei zu viel änderungen ab
+
+=> ganz viele rechtsfälle müssen neu bewertet werden, FALLS [urs blum] jürg stalder einmal amtsperson war, dann wusste jürg stalder dass er rechtsfälle manipulierte
+
+
+
+09:41
+
+jürg stalder verrät dass es in bern in der justtiz den selben sauladen gibt welcher teilweilse vorsätzlich zeugen für die Zürihc Verischeurngn ermordet hat
+
+
+
+09:42:
+manipulation und sabotage von infromatik mitteln as a service, kunden oft korrupte amtspersonen
+
+wir danken jürg stalder für den Verrat <- unbekannnt
+
+
+
+marc@debian:~/hacker-notes-s26m06/voice/202610$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@debian:~/hacker-notes-s26m06/voice/202610$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    kk
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+FALLS das verifiziert werden kann ist HAUPTKUNDSCHAFT von Blackhat Gear Justiz, korrupte Polizisten und Amtspersonen um rechtsfälle zu manipulieren
+
+
+~/hacker-notes-s26m06/voice/202610/R20261012-064827.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261012-065046.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261012-065227.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261012-072924.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261012-073055.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261012-091800.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261012-092341.WAV.mp3
+~/hacker-notes-s26m06/voice/202610/R20261012-092353.WAV.mp3
+
+
+
+
+Dann gerne abklären ob der Jürg Stalder mit Jan Ebbinger im selben Auftragskiller-Netzwerk ist. Weil da gibt es den Vorfall, dass Jan Ebbinger meine kleine Schwester Ursula defloriert hat und ihr ein falsches Heiratsversprechen gegeben hat, und das dann aber gebrochen hat und jetzt ist sie wenn sie ihre medikamente nicht nimmt nur noch am häulen oder suizidal
+
+
+15:00:
+mir tut schon wieder alles weh. Also das ist irgend etwas wie Haldol welches mir alle ca 12h verpasst wird, wirst case über die Atemwege, bzw. Fenster waren auf beiden Seiten offen...
+
+
+

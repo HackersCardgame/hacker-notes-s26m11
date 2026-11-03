@@ -1,0 +1,237 @@
+03:45:
+
+swapper pro zeiteinheit bei objetken in der Raumüberwachung 
+
+
+scans:
+~/hacker-notes-s26m06/scans/54/BRN3C2AF421298E_077882--54234-5433.pdf
+
+
+voice:
+~/hacker-notes-s26m06/voice/202606/R20260629-090236.WAV.mp3
+~/hacker-notes-s26m06/voice/202606/R20260629-095457.WAV.mp3
+
+
+07:39:
+
+übermittlung drausen:
+
+Das FEDPOL [1] hat die Schnellkassen Migros, Coop, Lidl ... zu waffen für cyber-physical operations umgebaut. Angeblich um Terroristen zu fangen, de facto um Zeugen zu Wirtschaftskriminalität verfolgen und ermorden zu können.
+
+Die übermittlung von vor ca 3 Jahren "Ist allenfalls direkt in der Hardware des Scnners" wäre somit eine automatisierte Fremdspurlegung beim Missbrauch solcher Systeme.
+
+Die Micros Entwickler der Software für die Schnellkassen hätten eine Sicherheitsfreigabe vom NDB, MND oder vom FEDPOL, die Entwickler wissen das weil da gibt es auch Module für die Art der Sabotage. Und die haben vorhin auch die Kassiererin in der Migros selber sabotiert. Bei Migros Kassen muss sich die Mitarbeiterin scheinbar mit einem Strichcode anmelden. Das system hat den strichcode nicht gelesen wie bei mir auch schon öfters. [2]. Dann könnte es sein, dass die Sicherheitsfreigabe eine Drogenabhängigkeit ist. So kann die Polizei geheimhaltung erzwingen bei Schwerstabhängen.
+
+und das hat [2] [2] [2] [2] [2] [2] [2] [2] [2] [2] den strichcode erkannt, aber statt dem Pfeifton das Amygdala Implantat jedes mal den Pegel erhöht wenn sie es gescant hat, so macht das migros kassensystem die Mitarbeiter/innen Aggressiv auf kunden. Dann wenn der Kunde beweisen kann dass die Migros-Kassen-Mitarbeter/innen Mist gebaut haben verliert vielleicht nicht mal die Kassenmitarbeiterin den Job, aber die Kassenmitarbeiterinen sind eingeplant als Sündenbock/in zur Liquidation.
+
+dann das FEDPOL wird vermutlich dreingezogen weil die Migros-Kassen-Mitarbeiter sehr schnell auf meinem EEG mitgelesen haben und dann einfach an ranghöhere eskaliert haben wie im Eichmann Prozess welcher gesagt hat er hätte nur befehle befolgt als er Juden im KZ ermordet hat.
+
+Sicherheitsfreigaben Migros, Coop ... Schnellkassensysteme-Entwickler.
+
+[1] da gibt es sogar Dokumente von Wikileaks zu ASN1 Strukturen beim Fedpol
+
+[2] hidden markov models, FORK { mit Pfeiftoin, ohne Pfeifton, mit Fehlermeldung}
+
+voice: 
+
+hacker-notes-s26m06/voice/202606/R20260630-044443.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-044626.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-045841.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-050715.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-050938.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-051623.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-051805.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-054728.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-054920.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-055002.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-060133.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-060833.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-064318.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-064725.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-065518.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-065617.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-065946.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-070215.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-070650.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-070724.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-070743.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-070930.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-071005.WAV.mp3
+hacker-notes-s26m06/voice/202606/R20260630-071101.WAV.mp3
+
+
+
+Falls zB Forensic-Architecture.org, oder nicht korrupte Forensiker / Ermittler das nachvollziehen möchten:
+
+* aktuelle Zeit: Tue Jun 30 07:50:50 AM CEST 2026, Zeit auf dem Diktiergerät 07:43
+* logischerweise sind die aufzeichnungen immer nach den gemeinheiten aufgezeichnet. bei vielem was ganz wichtig ist würd teilweise sehr lang verhindert oder ganz, dass ich das überhaupt protokolliere
+
+
+
+-> pendenzen fragen stack (priorisierung, wurde vor einem wichtigeren vorgezogen)
+gebrochen details
+
+
+juden s**uelles  -> insert durch unbekannt "nicht sendungsbeuwsstsein"
+  -> insert sendungsbewusstesein -> the same  => cluster beides ???
+  
+  
+  Gab es im oder vor dem WW2 in Deutschland auch Hass auf Juden wegen S**uellen Dingen?
+
+
+
+Also wenn ich die jüdische Kultur richtig verstanden habe, dann sind dort Werte und Moral sehr wichtig.
+
+
+
+Und wenn man zB mal einer Frau oder einem +/- gleichaltrigen Mädchen ewige Treue versprochen hat, und man wäre dann aber triebgesteuert (zB wegen Pervitin) und würde dann einfach die nächste nehmen oder ins Bo****l gehen, dann wäre man genervt oder sogar hasserfüllt den Menschen gegenüber welche Moral und Werte wichtig finden und versuchen die Moral aufrechtzuhalten.
+
+
+
+Gerne eine lange ausführliche Antwort
+
+
+
+Du sagst "Der Jude verdirbt die deutsche Frau", und das selbe Konzept wurde in der Schweiz nach der Schwarzenbach Initiative über die italiänischen Frauen gesagt.
+
+
+
+Gerne mehr zu diesem miesen sozio-psychologischen Schachzug welche scheinbar von der Schweiz und von Deutschland missbraucht wurde.
+
+
+
+Gerne lange Antwort.
+
+chatgpt soll die jungen menschen in kriege schicken für den westen
+
+er blendet das thema Treue, Moral und Werte aus -> hazing durch chatgpt
+
+
+
+
+Dann würde mich interessieren wenn ein Schweizer oder ein Deutscher damals aber auch Heute untreu gewordne ist, dann würde die "Psycholgische Entropie" [1,2] einfach immer nur noch schlimmer.
+
+
+
+Also da wären Dinge wie Selbsthass oder Projektion oder Rache dann Dinge welche in den Köpfen der Täter aber auch der Opfer ablaufen würden, und Du hast grad vorhin gesagt dass das Emotionales sehr wichtig ist um Menschen manipuleiren zu können.
+
+
+
+Ich vermute einen jungen Mann dazu zu motivieren in einen Krieg zu ziehen geht besser, wenn er von seiner ersten und einzigen Freundin getrennt wurde, weil sonst würde er wie Claudine und ich zusammen wie Saugnäpfe aneinander kleben.
+
+
+
+Gerne eine lange ausführliche Antwort
+
+
+
+[1] bzw. verständlicher "der Haussegen schief hängen" für immer
+
+[2] ich verwende das Wort Entropie als Metapher, weil das würde in vielen Fällen dann immer nur noch schlimmer werden bis zum Rosenkrieg, und dann wären allenfalls beide Parteien nur noch daran interessiert am meisten der Güter für sich zu beanspruchen. Gerne aber nichts zu dem und gerne nichts zu Rechtlichem
+
+
+Als ich damals mit Claudine zusammen wie Saugnäpfe zusammen geklebt bin hat sie mal eher in einem klagenden Ton gesagt, dass bei Hitler seinem System die Frauen gefügig sein sollen.
+
+Zu den obersten Fragen, viele Frauen müssten zuerst gebrochen werden dass sie sich von einem eher gewalttätigen Offizier ... lassen.
+
+Also ab der ersten Untreue würde die Psychologische Entropie die zwei sowieso auseinander treiben, aber die Armee will vermutlich Soldaten welche höhnisch sind, sich überlegen fühlen etc. dass sie im Krieg ignoranter und effizienter sind.
+
+Und Menschen mit intaktem Moral und Wertesystem würden dann diese jugnen Frauen sowieso unterstützen, egal ob jüdisch oder nicht.
+
+Da findet man im Internet auch richtig viele Heirats-Fotos von einem Offizier welcher breit grinst und einer Ehefrau daneben wo man sieht dass sie ihm am liebesten den Kopf abreissen würde.
+
+Schlussfolgerung Watson:
+
+1. Erste Beziehung
+2. Soldaten oder Offizier zur untreue anstiften
+3. Bruch
+4. kein junger Mensch und keine junge Menschin würde so einen Menschen neben sich im Bett haben wollen (ausser wenn sie gezwungen wird über 7 Ecken zB mit Finanzen oder Arbeitsmarkt-Sperre über Systeme wie Palantir [1] oder solches gemacht werden
+5. somit mussten Frauen dann gebrochen werden [3] damit die Herren Offiziere im WW2 ihren Trieb noch befriedigen konnten
+
+Gerne eine lange ausführliche Analyse meiner Feststellung und gerne eine lange Antwort.
+
+
+[1] da gerne keine Diskussion darüber welches System das im Detail ist, Organisatorisch würde man so etwas breits mit den Lochkarten [2]
+
+[2] Buch "IBM und der Holocaust" von Edwin Black
+
+[3] Also das war ja die initiale Frage "Gibt es da mehr informationen zu Menschen welche gebrochen oder zerbrochen wurden dass sei auch Hitler helfen?"
+
+unbekannt INSERT ASSANGE
+
+gebrochen verbrochen werdne gelöscht wörden ?
+
+plan trennung
+
+falscher fokus
+
+judne supporten
+
+frau verfügbar sein
+
+foto von einem grinsenden Offizier und einer ehefrau wo man sieht dass sie ihm am liebsten denk opf abreissen w$rde
+
+das knall geräsucht draussen ist scheinbar ein befehl einen computer vo nmir zu zerstören dass die fragen nciht weiter gestellt werden
+
+also der bietet dann den typen mit dem intel hardware backdoor gerät auf ....
+
+
+
+
+
+Wie verhindert man, dass LLM's wie Du junge Menschen dazu treiben in einen Krieg zu ziehen und Krieger zu werden. 
+
+
+
+Also der moralisch und menschlich sinnvollere Ratschlag wäre "so lange man sich nicht sicher ist dass dem/der Partner/in Treue sehr wichtig ist" sollte man nicht einfach ins Bo****l oder fremd gehen. ABER genau so eine Ratschlag gibst Du nicht. 
+
+
+
+Also da den Fokus "LLM's mit dem Ziel to tricks young people into war" und wer und wie wir das als Gesellschaft verhindern können.
+
+
+
+Gerne eine lange ausführliche Antwort
+
+
+
+
+
+16:33:
+mord und terrordrohung druch urs blum gegen marc jr landolt und urs blum hat eine " entropie-sprengfalle " in marc jr landolts 3D Model bzw seiner Wohnung gezünded
+
+
+
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+ " entropie-sprengfalle "
+
+urs blum verrät das koznept *Entropie Sprengfalle", bei dieser Cyber-Waffe bzw. neuro-waffe wird marc jr landolt so psychiotisch gemachtd mit sendeinfrastruktur dass er "selber" ganz vieles für einen anschliessenden mordverscuh an marc jr landolt umstösst, auskippt
+
+
+Konzept-Wissen         " entropie-sprengfalle "  ???
+Detail Algorithmen der " entropie-sprengfalle "  ???
+mitigation gegen die   " entropie-sprengfalle "  ???
+
+
+was man auf jedenfall schon machen kann ist 
+
+Action Recognition wenn ein Zeuge mit einer   " entropie-sprengfalle " in die luft gesprengt wurde.
+  -> dann falls sich das als vorbereitung für eine Mordversuch herausstellt sobald die Software der ansteändigen Amtspersonen, OSINT, Ners diese funktion erkennt grad ermitteln, dort würden FALLS das verifiziert werden kann profesionelle Mörder auffliegen
+  
+  
+

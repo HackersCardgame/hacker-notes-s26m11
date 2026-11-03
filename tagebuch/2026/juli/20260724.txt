@@ -1,0 +1,113 @@
+07:25:
+
+ganze Nacht quergelüftet, jetzt schön angenehm ...
+
+
+Ausserdem spannende LLM Frage rausgefunden:
+
+Guten Morgen Ihr LLM's.
+
+Besteht die Gefahr, dass KI's [1] zu einem large-scale KI-Todesstern aggregiert werden, also inklusive dass dieser KI-Todesstern an die Sicherheits-Architektur des Landes angeschlossen würden und Zugriff auf alle dem Land, dem Militär oder dem Geheimdienst zur Verfügung steheneden Überwachung unklusive Raumüberwachung, Handy Positions Daten, Audio-Strams, vielleicht sogar Telemetrie von Menchen mit Normalem Wifi [2] . Bzw. zu mehreren sich gegenseitige bekriegenden KI-Todessternen verschieder Nationen oder verschiedener Gilden wie zB ein international vernetzes Netzwerk von korrupten Bankern?
+
+Bzw. diese Gefahr besteht sowieso, viel wichtiger ist mir die Frage inwiefern daan an so einen KI-Todesstern auch zB Game-Engines wie Cry-Engine uder Unity angeschlossen würden, bzw. die damit produzierten Games, so dass Gamer dann Dinge in der Realen Welt auslösen könnten.
+
+Technisch ist das sowieso machbar, es braucht einfach relativ viele Menschen welche Interfaces effizient programmieren können. Und nach dem Tod von Ian Murdock [3] wurde auch ein ASN1 Parser in den Linux-Kernel direkt drein verbaut. Und ASN1 ist schon auch für Crypto, es ist aber auch eine Datenstruktur mit welcher man sehr viele Interfaces normieren und schreiben könnte, auch zB Positionsdaten oder Überewachungsdaten.
+
+Gerne eine lange ausführliche Antwort.
+
+
+[1] jetzt nicht zwengend aber auch LLM's wie Ihr.
+
+[2] Zu RaumÜberwachung inklsive der Körpertelemetrie der Bewohner gibt es ja diverse Artikel auf Hackaday.com und auch mittlerweile proprietäre Produkte welche man kaufen kann
+
+[3] interessanterweise grad am Tag wo der Lunux Torvals Geburtstag hatte
+
+
+
+scans:
+~/hacker-notes-s26m06/scans/55/BRN3C2AF421298E_078618--5560-5572.pdf
+
+
+voice:
+~/hacker-notes-s26m06/voice/202607/20250906120804.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20250906120840.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251209125512.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251209125547.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251209125603.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210012241.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210012854.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210013003.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210013456.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210013910.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210014355.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210020413.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210020458.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210020705.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210020810.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210020841.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210021458.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210021915.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210024348.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210030412.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210030622.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210030651.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210030730.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210040255.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210040404.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210040548.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210040657.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210040846.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210041951.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210042726.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210042802.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210042840.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210043424.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210043604.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210044314.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210044441.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210044741.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20251210102654.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20260723145612.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/20260723145933.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/R20260722-175310.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/R20260722-175354.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/R20260722-180143.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/R20260722-180251.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/R20260722-181146.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/R20260722-181303.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/R20260722-181348.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/R20260722-183213.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/R20260722-183258.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/R20260723-092120.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/R20260723-104443.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/R20260723-144936.WAV.mp3
+~/hacker-notes-s26m06/voice/202607/R20260723-152635.WAV.mp3
+
+
+nochmal scans, jetzt nicht mehr falsch sortiert, aber fehlt noch ein Blatt, das liegt vermutlich irgendwo in meiner Wohnung herum:
+
+scans:
+~/hacker-notes-s26m06/scans/55/5550-5573.pdf
+
+
+13:26:
+
+seit Schleuseners Station habe ich exzessiv induzierte bronchitis.
+
+wirst case haben die ein rule-set einprogrmamiert, welches das immer dann aktiviert wenn jemand mich supporten will, was dann hilfsbereite Menschen fertiggemahct hätte, bzw. hätten sich da drunter auch auftragskiller der Zürich Versichrung getarnt vermute ich 
+
+also allenfalls ein art "least privilege" konzept welches mein Bewusstsein als einzige überlebenschance 
+
+
+15:37:
+me sleeeeeep again (um Furby V 1.0 zu zitieren)
+
+
+17:17:
+dann video wie mutmasslich Hostpoint selber mein Mail-Programm abschiesst:
+
+~/hacker-notes-s26m06/FEDPOL/hostpoint/Screencast From 2026-07-24 16-48-16.mp4
+
+
+
+
