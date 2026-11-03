@@ -11,4 +11,9 @@ geräte-behinderungs-stärke parameter
 
 test
 
+06:12:
+
+scans:
+
+~/hacker-notes-s26m11/scans/60/6000-6045.pdf
 
