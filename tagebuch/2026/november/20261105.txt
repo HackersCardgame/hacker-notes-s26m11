@@ -1,0 +1,111 @@
+09:14:
+
+ab wann besteht die Gefahr, dass wir APT's [1] sehen werden, welche von sehr mächtigen Menschen finanziert werden. [2,4], welche beim schreiben so einer Frage wie dieser an ein LLM bereits zB auf dem Endpoint dann sehr schnell erkennt, dass der APT bzw das APT konzept auffliegen würde und dann je nach dem wie relevant etwas ist dann sehr viel weitere Algorithmen und dazugehöriges Bedienpersonal (Euphemsimus) aktivieren würde.
+
+Eine Grundformel für das Erkennen der Relevanz wäre zB Anzahl Täter [2,4] aus dem Netzwerk welche für wie lange in den Knast müssten wenn etwas bekannt wird.
+
+Gerne eine lange ausführliche wissenschaftliche Antwort in wievielen Jahren die Menschheit und antsändige Menchen mit solche einer Gefahr rechnen müssten.
+
+
+
+[1] advanced persistent threads
+
+
+[2] da mal nicht wertend ob richtig mächtige Mafiosi, oder richtig mächtige Wirtschaftskriminelle, oder richtig mächtige korrupte Amtspersonen welche zB nicht nur Polizei-Kommandant sondern auch Oberst-Leutnand [3] oder Brigadier sind, also sowohl Zivile als auch militärische Doppelrolle.
+
+
+[3] nicht mit Ober-Leutnand verwechseln, Oberst-Leutnand ist in der CH-Army eine ganz andere Nummer
+
+[4] Und bitte nicht eine ganz lange Abhandlung über amerikanische oder italienische Mafia, das verzerrt das Bild immer sehr stark und gesucht ist eher das Konzept-Wissen und die Technischen Dinge.
+
+
+
+
+
+09:26
+
+wenn das jetzt im Fall von Julian Assange oder mir schon so ist, und an einigen Tagen schiessen diese diese APT's sehr viele von diesen Dingen ab...
+
+also dass die Programmierer oder das APT-System so etwas wie eine akute Psychose hat (um das mit Menschen zu vergleichen) so dass dann das so aggressiv schiesst, dass es für fleissige und intelligenten Menschen mit Vorwissen über Informatik da den ungefähren Code erraten können ...
+
+... unter der HYPOTHETISCHEN PRÄMISSE dass ich das mit dem Trigger "Anzahl Haftstrafe * Täter welche in den Knast wandern" richtig erratet habe.
+
+Welche Sorte von Software-Entwickler (Code Fingerprinting) würde das so schlecht programmieren. Also um meine Vermutung vorgwegzunehmen, die sind paranoid, reich, können Entwickler mit einem endless astronomy military budget zwar finanzieren, aber ein Mensch oder ein Autist mit reinem Gewissen welcher nicht noch mit Intrapersonellen Problemen wie Schuldbewusstsein von ihrem Restgewissen gespammt wird wäre in jedem Fall besser in solchen Dingen?
+
+gerne eine lange ausführliche Antwort.
+
+
+
+
+09:47:
+
+Unter der HYPOTHETISCHEN Prämisse, dass ein Richter-Söhnchen dessen Richter-Mami ihm als rechtswissenschaftlich gelehrte Person alle Tricks verraten hat wie er das Justiz System, die Psychiatrie, die Polizei oder Amtsärzte für seine Zwecke missbrauchen kann ...
+
+... und das Ricther-Söhnchen hätte sich jetzt aber bei zwei Swattings eines Zeugen erwischen lassen.
+
+
+Also unter dieser HYPOTHETISCHEN Prämisse müsste man davon ausgehen, dass dieses Richter-Mami kein einzelfall ist, würde vielleicht sogar einen Präzendenzfall geben.
+
+Unter dieser HYPOTHETISCHEN Prämisse wäre das Produkt aus "Anzahl Haftjahre" * "Anzahl Personen welche im Knast landen würde" relativ gross.
+
+Kannst Du da mal eine Abschätzung machen inwiefern so ein Swatting welches 2x dem Täter nachgewiesen werden kann ein grösseres Personen-Netzwerk oder relativ relevantes Konzept-Wissen zum Missbrauch der Justizia in der Schweiz machen.
+
+Da wäre mir wichtig wenn Du für die Abschätzung das Parameter "Anzahl korrupter Amtspersonen" in die Gleichung nimmst.
+
+A) für 0.1% Korrupte Amtspersonen
+B) für 1% Korrupte Amtspersonen
+C) für 2% Korrupte Amtspersonen
+D) für 5% Korrupte Amtspersonen
+E) für 10% Korrupte Amtspersonen
+
+
+Gerne eine lange ausführliche Antwort.
+
+
+
+
+Dann zurück zur ersten Frage.
+
+So eine Infrastruktur würde Milliarden verschlingen, sowohl für Lohnzahlungen an die Mittäter als auch für 0days, govware und es bräuchte eine richtig grossen Command and Controll Server Cluster.
+
+Also das wäre eine Infrastruktur welche nur das Militär, staatliche Stellen oder ganz reiche Konzerne wie ein Milliarden-Versicherer stämmen könnte. Der Milliarden-Versicherer könnte aber damit straffällige Kunden [1] vor legitimer Strafverfolgung schützen oder mindestens rechtzeitig warnen wenn ein Haftbefehl gedruckt wurde ODER wie im Fall der Isländischen Banken die Kunden rechtzeitig warnen dass diese ihre Gelder noch abziehen können und dann nur die normalen Mittelklassse-Bürger die ganze Zeche zahlen müssen.
+
+
+[1] mal nicht wertend ob Juristische Personen oder Natürliche Personen
+
+
+Mals sagen wo man nach so einem doch grösseren Command and Control Server Cluster suchen müsste
+
+A) beim Staat
+B) beim Militär
+C) bei Geheimdiensten
+D) bei grossen Konzernen
+E) ...
+
+
+bzw. mit ÄHNLICHEN Dingen wie Spannend Messag Passing Interface also konkret zB Perplextiy Bridge könnten da auch mehrer Systeme beteiligt sein, und da würde wirst case in allen Systemen ein fragwürdiger Mensch mit Admin-Account auf dem Cluster der Organisation reichen um solche vorsätzliche Probleme zu verursachen.
+
+Gerne eine lange ausführliche Antwort.
+
+
+
+3D Game Engine:
+===============
+Florian-Stefan-Bader-Schläpfer-Fellmann-Robert-Tochter:
+
+HTL <-> PDAG <-> PUK (uni Zürich) <-> Zürich Versicherung
+
+= ALTERNATIVLOS für die Täter und korrupten Amtspersonen
+ ==> Flucht-nach-Vorne-Deadlock für Täter
+
+-> ergiebig für alle nicht-korrupten Amtspersonen
+
+
+
+15:37:
+
+scans:
+~/hacker-notes-s26m11/scans/60/6000-6049.pdf
+
+
+
