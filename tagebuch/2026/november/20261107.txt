@@ -78,3 +78,59 @@ also da versuchen wieder mehrere eher fragwürdige Organisationen mit gegenseiti
 * (vermutlich militärsiche) Sendeinfrastruktur (voice vorgestern)
 * 
 
+
+
+
+08:45:
+
+einkaufen, hölle, aber wieder paar datenpunkte gefunden bzw. unfreiwillig damit beworfen worden
+
+
+Frage an LLMs:
+
+
+Gerne diese Frage nicht rechtlich beantworten, diese Frage auch nicht politisch beantworten, sondern diese Frage mathematisch beantworten.
+
+In einem Spiel gibt es
+
+Objekte:
+
+O1) Cyber-Waffen
+
+
+Acteure:
+
+A) Käufer der Cyberwaffen
+A1) Amtspersonen
+A2) sonstige Käufer
+
+
+B1) einen Backbone / Plattform betreiber
+Der Backbone Betreiber ist aber schlau, hat sich das Gesetz von Arthur C. Clark zu herzen genommen und den Käufern oder Konsuemnten der Cyber-Waffen irgend etwas esoterisches eingeredet: "Jede hinreichend fortschrittliche Technologie ist von Magie nicht zu unterscheiden."
+
+
+P1) Produzenten der Cyber-Waffen
+
+
+Das Konzept, dass Amtspersonen diese Cyber-Waffen erst kaufen können, wenn sie einen Knebelvertrag mit Satan abgeschlossen haben (also sich kompromitieren liessen)
+
+Die Amtspersonen sind keine Technolgie-Experten, haben das 3. Clarksche Gesetz Bild geschluckt und wissen oft auch nicht mal was ein Backbone [1] ist. Somit haben die Amtspersonen noch weniger eine Ahnung, dass auf einem Backbone oder einer Plattform logischerweise jeder Gebrauch oder Missbrauch einer Cyber-Waffe mit Logfiles Protokolliert werden und je nach AAA Konzept auch rechtsgültig einem Benutzer zugewiesen werden kann.
+
+Will eine der Korrupten Amtspersonen aussteigen dann wird das ganze Logfile zum Gebrauch und Missbrauch der Cyber-Waffen an höhrer Stelle freigeschaltet.
+
+
+[1] Backbone auch nicht wertend ob das jetzt das militärsche Glasfasernetzwerk wäre, oder das Tor-Browser-Netzwerk, oder der normale Internet-Backbone, oder das WiMAX Proejkt welches in der Schweiz nur testweise lief. Diese Frage ist Mathematisch gemeint
+
+
+Frage 1:
+wie sieht die Zukunft der Amtspersonen aus welche so blöd waren sich kompromitieren zu lassen ?
+(also schon da mit Brechnung)
+
+
+Frage 2:
+Die selbe Frage wie Frage 1, ABER wenn es der Backbone Betreiber (B1) obwohl er sich viel Mühe gegeben hat nicht geschafft hat sich und den Backbone über der Gleichung zu lassen und dann so auch zur Variabel in der Gleichung wird.
+
+
+Gerne eine lange ausführliche Antwort.
+
+
