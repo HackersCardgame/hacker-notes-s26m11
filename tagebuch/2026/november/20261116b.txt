@@ -1,0 +1,107 @@
+13:27:
+
+
+Nozizen:
+
+Zensur und Abschuss-Codes Atomwaffen:
+====================================
+Dass jedes Land eine Möglichkeit hat Dinge sehr schnell vom Netz nehmen können ist naheliegend, um es zu überzeichen: Wenn jemand die Abschuss Codes von Atom-Waffen im internet veröffentlichen würde dann wird das sehr schnell gelöscht werden müssen, oder wenn jemand Beweisfoto vom Präsidenten seines Landes welcher grad seinte Tocher vergewaltigt oder jemanden ermordet, dann wird das mindestens der Präsident das sofort wieder vom Netz gelöscht haben. Und ein Präsident wäre schon jemand welcher Einfuss auf das "Sicherheits-Budget" hat und auch mindestens einen Einfluss hat darauf wie das Sicherheits-Budget eingesetzt wird. Und da meine ich zB den Kim Jong Un in Korea, weil der könnte sowieso aber das wäre auch in demokratischen Staaten mindestens in Teilen so.
+
+
+
+Airgaped Computer Telli Grid:
+============================
+Recherche inwiefern diese "Fishing-Crusades" und das mit den Arigapped Computern was der Jacob Appelbaum erwähnt
+
+
+
+Endstadion von grossen Überwachungs-Systemen:
+============================================
+polizei hat somit access auf Zensursoftware, und diese werden dann im Endstadion immer nur noch dazu missbraucht vorherige Vergehend der Amtspersonen mit neuen Vergehen zu vertuschen. Swatting in der Presse soll den Normalfall auf ein schlüsselwort normieren, de facto ist swatting in der Schweiz eher dazu da dass man Zeugen einschüchtern oder in die Psychiatrie einweisen kann um korrupte Amtspersonen oder wirtschaftiskriminelle Konzerne vor legitimer Strafverfolgung zu schützen.
+
+
+
+Github Zensur funktion:
+======================
+Zensur Malware welche über Github hooks nur einmal ausgerollt werden, den Computer infizieren, sich selber wieder löschen und beim nächsten git clone oder git pull würde das grad nicht mehr ausgerollt. Da wäre es sehr einfach beim git clone oder pull (vielleicht über einen separaten kanal) Github [1] sagen, dieser Computer ist noch nciht mit Zensursoftware infiziert (und das würde dann wieder als "Sicherheitsfunktion" schöngeredet), also ein orchestrator für das ausrollen von Malware zB über Github
+
+
+[1] bzw da gibt es nicht nur github sondern viele andere anbieter
+
+
+Reparieren und pflegen:
+======================
+menschen welche zB in Fabriken arbeiten, reparieren und gesund pflegen sollten eigentlich nicht angegriffen werden, aber scheinbar gibt es dort das problem, dass wenn man einen menschen (psychisch) gesund pflegt, dass dann auch auffliegt wer ihm das angetan hat, und diese Person wird dann sowieso versuchen den Reperatrour auch psychisdch zu verstümmeln. Menschen welche zB technisch, fachlich oder medizinisch nichts können, welche sich mit Machtmittel wie Bullies in der Schule damals einfach nehmen was sie wollen, die brauchen die arbeiter und reparateure, weil die könnten das selber nicht.
+
+
+
+Management Cockpit:
+==================
+CIM CENTER der HTL (FHNW), Roboter Telemetrie, Psychiatrie Königsfelden grad auf der anderen Strassenseite der HTL, Human Telemetrie, Simon Härdi, Argovier und Habsburger Studentenverbindung
+
+
+
+Intermezzo Neptunbrunnen:
+=========================
+dann spreche ich bis hier von der Schweiz und von schweizer Konzernen und von Konzept wissen, und jetzt wird der Fall "Polizei richtet einen nakten Patienten im Neptunbrunnen mit 4 Kugeln in den Kopf hin", das mit den 4 Kugeln in den Kopf konnte scheinbar geheim gehalten werden, und neptun brunnen berlin wäre der perfekte datenbank trigger, honey pot bzw Natural langauge processing trigger dass dann diese korrupten Schweizer Konzern mich dort wieder verwickeln könnnten
+
+
+
+Management Cockpit mit Copilot / Programmierhilfe für Blackhats:
+===============================================================
+=> Recherche, also so software wie "zerbombe die ganze Inforamtik des Zeugen Marc jr Landolt mit Cyber-Waffen", oder "verfolge marc jr landolt mit der Fehlanschuldigung er sei ein Terrorist"
+
+ist es ein management cockpit eines milliarden-Konzerns, dann wird das einach ein "fire and forget" sein, wo dann vollautomatisch auf den Zeugen eingewirkt wird bis dieser tod ist, technisch einfachste implementation ist einfach die Eintragung des Zeugen in nationale oder internationale Terror-Verdächtigen Datenbanken. Das würde auch erklären weshalb der Polizist vor meiner Haustüre auf dem Video schon beissreflexig an seiner knarre herumreibt während ich zwar nicht ganz nakt aber in unterhosen drinnen nicht wirklich eine gefahr darstelle
+
+
+
+Intermezzo Prono-Fahnder Mathias Be.:
+====================================
+swappt relativ schnell zur nächsten Gruppe von straffälligen Amtspersonen, also wie wenn in sequenz ganze stationen von durchgeknallten in der Psychiatrie durchgeschaltet werden, und da meine ich nicth zwingend durchgeknallte patienten sondern straffällige Mitarbeiter oder Amtspersonen.
+
+
+
+Claude Henchoz: (RELEVANT: Mordplanung, Mord verübt durch den Aarauer Philipp Lüscher, Sündenbock ausgewählt und versucht anzufüttern durch den Aarauer Claude Henchoz)
+==============
+Claude Henchoz wollte mich in diesem Zeitraum mit Haschisch und Pädokriminellen anfüttern als der Herr Philipp Lüscher die 3 ABB Administratoren der ABB Tochterfirma ABB Flexibler Automation AG in einer Lawine ermordet hat. Also bereits dort hätten diese Aarauer Herren um Claude Henchoz welcher in der selben Klasse wie Claudine Blum war, dessen Vater Urs Blum mutmasslich dem Philipp Lüscher den Mordauftrag gegeben hat mich als Sündenbock erwählt haben. "LEIDER" haben die Herren verkackt dass ich im zarten alter von noch nicht mal 20 Jahren schon hochbegabt war in Informatik UND auch noch alle Daten bis zurück zu meinem 10. Lebensjahr sichern konnte.
+
+
+
+Urs Blum macht die Rechtsvertretung für Simon Härdi:
+===================================================
+sollte härdi auffliegen, ist urs blum angewisen alle Taten nur mit dem Dominik Brändli in Verbindung zu bringen / zu bringen lassen
+
+
+
+Intermezzo Sprengstoff-Terrordrohungen gegen Marc jr Landolt:
+============================================================
+das Narrativ "Sprengstoff von Waffenplatz Aarau weggekommen" in der Aargauerzeitung verschlimmert das Thema welches Urs Blum und Philipp Blum damals mit 2001 mit dem "Sprengmeister Narrativ" geplfanzt haben
+=> während Stunden, somit immer wenn während Stunden das Sprengstoff-Narrativ thematisiert wird sollte man schauen was vor der Drohung war, weil das wäre dann so relevant, dass diese/r Herr/en dann gezwungen sind mit Sprengstoff-Terrorismus gegen mich zu drohen
+
+=> ich glaub das ist ein grösseres Täternetzwerk mit militärsichem Rückhalt und zugriff auf Waffenlager und vermutlich auch auf substanzen und somit höhnisch um Zeugen einzuschüchtern und so dann die information oben drann grad wieder zu "überschreiben" bzw. zu spammen.
+
+
+
+INTERMEZZO Psychaitrie Vergewaltigungen und Sprengstoff um Vergewaltigungen zu erzwingen: 
+========================================================================================
+also diese Intermezzi sollen mir so starke angst machen, dass ich die anderen Dinge in der Panik verpasst
+
+
+
+INTERMEZZO "Müller stirbt":
+==========================
+Somit vermutlcih Ruedi Müller oder sein Vater und SVP Präsident Hanspeter Müller selber welcher das übermittelt dass sie sich dann als Opfer darstellen könnten und wieder ein "legitimes Swatting" generieren könnten
+
+
+Recherche zu den Inzermezzi:
+===========================
+bei diesen Dingen ist es wichtig abzuklären inwiefern dass das nur drohungen mit Sprengstoff sind und die Armee die Offiziere daran hindern würde einen Zeugen wie mich wirklich in die Luft zu sprengen
+
+=> bzw. habe ich angst, dass wenn ich jetzt diese Drohungen anfange zu ignoreren, dass ich die Offiziere dann dazu zwingen würde mit dann doch mit sprengstoff zu ermorden.
+
+
+
+
+
+
+
